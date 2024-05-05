@@ -9,6 +9,7 @@ Imagine if you're building a house. Before you start hammering nails, you create
 windows go, and so on. UML does the same thing but for software. It helps developers visualize, design, and communicate
 how different parts of a software system work together. So, instead of drawing walls and doors, they draw boxes and
 arrows to show things like classes, functions, and how they interact.
+
 ---
 
 ## Type of UML
@@ -25,7 +26,7 @@ A class diagram illustrates the structure of a system by showing the classes in 
 system, their attributes, methods, and the relationships between them. In simple terms, it's like a blueprint of the
 objects and their interactions in a software system.
 
-![Class Diagram Example](https://static.javatpoint.com/tutorial/uml/images/uml-class-diagram9.png)
+![Class Diagram Example](https://www.drawio.com/assets/img/blog/class-diagram-example.png)
 
 _Image Source: javatpoint.com_
 
@@ -87,7 +88,7 @@ Tutorial:
 A Composite Structure Diagram illustrates the internal structure of a class or a component. It shows how the parts or
 components within a larger structure collaborate to fulfill the behavior of the whole.
 
-![Composite Structure Diagram Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/blog/UML-composite-structure-diagram@2x.png)
+![Composite Structure Diagram Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/blog/UML-composite-structure-diagram.png)
 
 _Image Source: lucidchart.com_
 
