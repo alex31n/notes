@@ -30,7 +30,7 @@ objects and their interactions in a software system.
 
 _Image Source: drawio.com_
 
-Tutorial:
+More detail on:
 
 - https://www.javatpoint.com/uml-class-diagram
 - https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
@@ -46,7 +46,7 @@ interact with each other.
 
 _Image Source: edrawmax.com_
 
-Tutorial:
+More detail on:
 
 - https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-object-diagram/
 - https://www.lucidchart.com/pages/uml-object-diagram
@@ -63,7 +63,7 @@ Components can have interfaces that define how they interact with other componen
 
 _Image Source: visual-paradigm.com_
 
-Tutorial:
+More detail on:
 
 - https://creately.com/blog/software-teams/component-diagram-tutorial
 - https://online.visual-paradigm.com/diagrams/tutorials/component-diagram-tutorial
@@ -78,7 +78,7 @@ or devices, in a networked environment.
 
 _Image Source: visual-paradigm.com_
 
-Tutorial:
+More detail on:
 
 - https://online.visual-paradigm.com/diagrams/tutorials/deployment-diagram-tutorial
 - https://creately.com/guides/deployment-diagram-tutorial
@@ -92,7 +92,7 @@ components within a larger structure collaborate to fulfill the behavior of the 
 
 _Image Source: lucidchart.com_
 
-Tutorial:
+More detail on:
 
 - https://www.lucidchart.com/pages/uml-composite-structure-diagram
 - https://www.edrawmax.com/article/composite-structure-diagram-explained.html
@@ -107,7 +107,7 @@ complexity of a system and facilitate modular design and development.
 
 _Image Source: edrawmax.com_
 
-Tutorial:
+More detail on:
 
 - https://www.lucidchart.com/pages/uml-package-diagram
 - https://www.geeksforgeeks.org/package-diagram-introduction-elements-use-cases-and-benefits/
@@ -122,7 +122,7 @@ specific modeling needs or domain-specific requirements.
 
 _Image Source: visual-paradigm.com_
 
-Tutorial:
+More detail on:
 
 - https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-profile-diagram
 
@@ -142,7 +142,7 @@ bottlenecks, and designing or documenting complex systems and processes.
 
 _Image Source: visual-paradigm.com_
 
-Tutorial:
+More detail on:
 
 - https://online.visual-paradigm.com/diagrams/tutorials/sequence-diagram-tutorial
 - https://www.javatpoint.com/uml-sequence-diagram
@@ -159,7 +159,7 @@ by ovals or rectangles, connected by lines to illustrate the relationships and i
 
 _Image Source: lucidchart.com_
 
-Tutorial:
+More detail on:
 
 - https://creately.com/guides/use-case-diagram-tutorial
 - https://online.visual-paradigm.com/diagrams/tutorials/use-case-diagram-tutorial
@@ -176,8 +176,63 @@ process optimization.
 
 _Image Source: lucidchart.com_
 
-Tutorial:
+More detail on:
 
 - https://www.lucidchart.com/pages/uml-activity-diagram
 - https://creately.com/guides/activity-diagram-tutorial/
+
+### State machine diagram
+
+A State Machine diagram is also known as a Statechart diagram that represents the states and transitions of a system or an object over time. It depicts the behavior of an entity as a finite set of states, each with specific conditions and actions associated with it. State Machine diagrams consist of states, transitions, events, and actions.
+
+![State machine diagram Example](https://static.javatpoint.com/tutorial/uml/images/uml-state-machine-diagram2.png)
+
+_Image Source: javatpoint.com_
+
+More detail on:
+
+- https://www.javatpoint.com/uml-state-machine-diagram
+- https://www.lucidchart.com/pages/uml-state-machine-diagram
+
+
+### Communication diagram
+
+A Communication diagram, also known as a Collaboration diagram, is similar to sequence diagrams, but it focuses on the relationships and collaborations between these entities, depicting how they exchange information and collaborate to accomplish specific tasks or objectives. Communication diagrams are particularly useful for understanding the structure of a system and how objects collaborate to achieve certain functionalities, aiding in system design, and documentation.
+
+![Communication diagram Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/uml/communication-diagram/communication-diagram-example-700x385.jpg)
+
+_Image Source: lucidchart.com_
+
+More detail on:
+
+- https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-communication-diagram
+- https://gitmind.com/communication-diagram.html
+
+### Interaction Overview Diagram
+
+An Interaction Overview diagram provides a high-level overview of interactions between components or objects within a system. It combines elements of both activity and sequence diagrams to represent complex interactions concisely. Interaction Overview diagrams use activity nodes to represent high-level interactions, including activities, interactions, and decisions, while also incorporating sequence fragments to detail specific interactions. Interaction Overview diagrams are useful for visualizing complex control flows and system behavior, aiding in system understanding and design.
+
+![Interaction Overview Diagram Example](https://cdn-images.visual-paradigm.com/guide/uml/what-is-interaction-overview-diagram/07-interaction-overview-diagram-example-order-reporting.png)
+
+_Image Source: visual-paradigm.com_
+
+More detail on:
+
+- https://www.edrawmax.com/article/interaction-overview-diagram-uml.html
+- https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-interaction-overview-diagram/
+
+### Timing Diagram
+
+A Timing diagram represents how objects or components in a system interact over time. It shows the changes in their state or values on a timeline, highlighting when events happen and how long they take. It's useful for understanding the timing and behavior of systems, especially in real-time contexts.
+
+![Timing Diagram Example](https://cdn-images.visual-paradigm.com/guide/uml/what-is-timing-diagram/11-state-and-value-presentation.png)
+
+_Image Source: [visual-paradigm.com](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-timing-diagram/)_
+
+More detail on:
+
+- https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-timing-diagram
+- https://www.edrawmax.com/article/timing-diagram-explained.html
+
+
 
