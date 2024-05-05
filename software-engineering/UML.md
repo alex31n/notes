@@ -28,7 +28,7 @@ objects and their interactions in a software system.
 
 ![Class Diagram Example](https://www.drawio.com/assets/img/blog/class-diagram-example.png)
 
-_Image Source: javatpoint.com_
+_Image Source: drawio.com_
 
 Tutorial:
 
