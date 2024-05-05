@@ -24,7 +24,9 @@ arrows to show things like classes, functions, and how they interact.
 A class diagram illustrates the structure of a system by showing the classes in the
 system, their attributes, methods, and the relationships between them. In simple terms, it's like a blueprint of the
 objects and their interactions in a software system.
+
 ![Class Diagram Example](https://static.javatpoint.com/tutorial/uml/images/uml-class-diagram9.png)
+
 _Image Source: javatpoint.com_
 
 Tutorial:
@@ -38,7 +40,9 @@ Object diagrams are derived from class diagrams so object diagrams are dependent
 An object diagram shows a snapshot of the objects in a system at a particular point in
 time, along with their relationships and attributes. It provides a detailed view of instances of classes and how they
 interact with each other.
+
 ![Object Diagram Example](https://images.edrawmax.com/images/knowledge/uml-object-diagram/example1.jpg)  
+
 _Image Source: edrawmax.com_
 
 Tutorial:
@@ -53,7 +57,9 @@ architecture of a software system, illustrating the organization and dependencie
 In a Component diagram, components represent modular parts of a system, which can be software modules, classes, files,
 libraries, executables, etc. These components encapsulate functionality and are often reusable and replaceable.
 Components can have interfaces that define how they interact with other components.
+
 ![Component Diagram Example](https://online.visual-paradigm.com/images/tutorials/component-diagram-tutorial/01-component-diagram-example.png)
+
 _Image Source: visual-paradigm.com_
 
 Tutorial:
@@ -66,7 +72,9 @@ Tutorial:
 A Deployment diagram visualizes the physical deployment of software components within a system's infrastructure. It
 illustrates how software artifacts, such as components or modules, are distributed across hardware nodes, like servers
 or devices, in a networked environment.
+
 ![Deployment diagram Example](https://online.visual-paradigm.com/images/tutorials/deployment-diagram-tutorial/07-deployment-diagram-example-corporate-distributed-system.png)
+
 _Image Source: visual-paradigm.com_
 
 Tutorial:
@@ -78,7 +86,9 @@ Tutorial:
 
 A Composite Structure Diagram illustrates the internal structure of a class or a component. It shows how the parts or
 components within a larger structure collaborate to fulfill the behavior of the whole.
+
 ![Composite Structure Diagram Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/blog/UML-composite-structure-diagram@2x.png)
+
 _Image Source: lucidchart.com_
 
 Tutorial:
@@ -91,7 +101,9 @@ Tutorial:
 A Package Diagram provides a graphical representation of the organization and dependencies among packages in a system.
 Packages are used to group related elements, such as classes, interfaces, components, or other packages, to manage the
 complexity of a system and facilitate modular design and development.
+
 ![Package diagram Example](https://images.edrawmax.com/images/knowledge/package-diagram/package-diagram-example.jpg)
+
 _Image Source: edrawmax.com_
 
 Tutorial:
@@ -104,7 +116,9 @@ Tutorial:
 A Profile Diagram is a specialized diagram used to define and visualize custom extensions or profiles to the standard
 UML language. It allows users to create custom stereotypes, tagged values, constraints, and other extensions tailored to
 specific modeling needs or domain-specific requirements.
+
 ![Profile Diagram Example](https://cdn-images.visual-paradigm.com/guide/uml/what-is-profile-diagram/07-profile-diagram-example-it-management.png)
+
 _Image Source: visual-paradigm.com_
 
 Tutorial:
@@ -122,7 +136,9 @@ other in a particular scenario or sequence of events. It depicts the flow of mes
 participating objects or actors, arranged in a chronological order from top to bottom. Sequence diagrams are useful for
 visualizing the dynamic behavior of a system, understanding the sequence of operations, identifying potential
 bottlenecks, and designing or documenting complex systems and processes.
+
 ![Sequence Diagram Example](https://online.visual-paradigm.com/images/tutorials/sequence-diagram-tutorial/13-sequence-diagram-example-book-a-seat.png)
+
 _Image Source: visual-paradigm.com_
 
 Tutorial:
@@ -137,7 +153,9 @@ various ways users interact with the system to achieve specific goals. Actors ar
 systems, or hardware devices that interact with the system. Use cases represent the functionalities or tasks the system
 provides to its users. These diagrams typically consist of actors represented by stick figures and use cases represented
 by ovals or rectangles, connected by lines to illustrate the relationships and interactions between them.
+
 ![Use Case Diagram Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-use-case-diagram-tutorial/Book_Publishing_Use_Case_Scenario_UML.PNG)
+
 _Image Source: lucidchart.com_
 
 Tutorial:
@@ -152,7 +170,9 @@ visual representation of the sequential and concurrent activities performed by t
 accomplish a specific goal or task. Activity diagram is useful for modeling the dynamic aspects of a system, such as
 business workflows, use case scenarios, and software behavior, aiding in requirements analysis, system design, and
 process optimization.
+
 ![Activity Diagram Example](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/activity-diagram-for-banking-system-UML/activity-diagram-for-banking-system-UML-650x665.png)
+
 _Image Source: lucidchart.com_
 
 Tutorial:
