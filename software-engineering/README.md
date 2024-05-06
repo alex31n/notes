@@ -2,4 +2,4 @@
 
 
 ### Topics
-- [Unified Modeling Language(UML)](uml.md)
+- [Unified Modeling Language (UML)](uml.md)
